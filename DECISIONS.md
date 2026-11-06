@@ -300,4 +300,5 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
   - **Passé** = moment révolu (heure de début dépassée, ou terminé / `completed`).
 - Pas de « X personnes regardent ». Pas de « populaire ». Aucun compteur ni signal social autour des signets.
 - Métier inchangé : caution, barèmes, délais, présence, libellés d’écran existants.
+- Lot 44 poussé `3854cc6` (06/11), QA OK (1147). Sans compte, le contrôle ouvre la création de compte (choix codé, Paolo informé). Urgents déjà sur place : hors liste dès H dépassée (même s’ils restent jusqu’à H+30 sur le fil). Annulé / fermé aussi masqués.
 

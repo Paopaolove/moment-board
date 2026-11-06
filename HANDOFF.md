@@ -5,12 +5,12 @@
 ## Tip
 - SHA : `3854cc6` (feat/invitation-offer-lots, poussé, arbre propre)
 - Parent : `5bee1de` (lot 43) → `3854cc6` (lot 44 signets)
-- Tests : 1147/1147 déclarés (verify ChatGPT) ; QA Testeur **en cours**
+- Tests : 1147/1147, QA Testeur **OK** (06/11)
 - Captures : `/workspace/lot43-captures/{avant,apres}`
 
 
 ## Objectif courant
-- Lot **44** Signets poussé `3854cc6` ; QA Testeur en cours.
+- Tip stable `3854cc6` lots 43+44 clos (look Pro + signets). Bots en pause.
 - Avant store (tâche 24) toujours sur demande.
 
 
@@ -27,7 +27,7 @@
 - Signets (06/11) : icône sur la carte + liste Profil ; pas une demande ; personne prévenu ; sort si passé ou complet ; pas de « X personnes regardent » / « populaire »
 
 ## Ouvert (décision Paolo)
-- Lot 44 Signets en cours (voir DECISIONS 06/11). Aucun autre produit ouvert.
+- Aucun produit ouvert.
 
 
 ## Avant store (tâche 24, pas bloquant démo)
@@ -43,4 +43,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 06/11 ~23 h 50 Europe/Paris — tip `3854cc6` lot 44 poussé ; QA Testeur en cours.
+- 06/11 ~23 h 50 Europe/Paris — lot 44 clos, tip `3854cc6` poussé, QA OK (1147).

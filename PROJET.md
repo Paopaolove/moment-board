@@ -56,10 +56,11 @@ Dernière mise à jour : 06/11/2026.
 - « Renaissance » hebdomadaire des bots et dossier OneDrive : écartés.
 
 ## Ouvert
-- Lot **44** Signets poussé `3854cc6` ; QA Testeur en cours. Store (24) sur demande.
+- Tip stable **`3854cc6`** (lots 43+44, QA OK). Store (24) sur demande. Bots en pause.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 06/11 (~23 h 50) : QA Testeur OK sur `3854cc6` ; lot 44 clos (signets) ; 1147 tests ; bots en pause.
 - 06/11 (~23 h 50) : tip `3854cc6` lot 44 (signets) poussé ; 1147 tests déclarés ; QA Testeur.
 - 06/11 (~23 h 40) : décision Signets (lot 44) inscrite ; ChatGPT code (carte + liste Profil, pas une demande, personne prévenu, sort si passé/complet).
 - 06/11 (~11 h 20) : QA Testeur OK sur `5bee1de` ; lot 43+43b clos (look Pro + cibles 44 px) ; 1126 tests ; bots en pause.
