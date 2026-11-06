@@ -53,6 +53,6 @@ Statuts : À faire · En cours · Bloqué · À valider (Paolo) · Fait
 | 41 | À 4 absences lieu → compte fermé temporairement pendant un mois à cause des absences (partout) + date ; 1 absence après → fermeture définitive | ChatGPT + Testeur | Fait | **`d625af7`**, QA OK (1111). Libellé exact Paolo ; join bloqué si fermé définitif acté |
 | 42 | Toast 4e + fermeture temp ; compteur **« 1 sur 1 »** après mois ; message fermeture définitive (texte Paolo validé) | ChatGPT + Testeur | Fait | **`1a954c6`**, QA OK (1126) |
 | 43 | Look Moment Pro sur V1 (esthétique seule : blanc / #F7F7F5 / #111111 / CTA #1F2937, Inter Tight, Fraunces mot-symbole, cibles 44 px) | ChatGPT + Testeur | Fait | **`5bee1de`** (parent `fed184c`). QA OK (1126). |
-| 44 | Signet sur la carte d’un moment + liste dans le Profil (pas une demande, personne prévenu ; sort si passé ou complet ; pas de preuve sociale) | ChatGPT + Testeur | En cours | Décidé 06/11 ; départ `5bee1de`. Sans métier. |
+| 44 | Signet sur la carte d’un moment + liste dans le Profil (pas une demande, personne prévenu ; sort si passé ou complet ; pas de preuve sociale) | ChatGPT + Testeur | En cours | **`3854cc6`** poussé ; QA en cours. |
 
-Dernière mise à jour : 06/11/2026 ~23 h 40 Europe/Paris (lot 44 signets lancé)
+Dernière mise à jour : 06/11/2026 ~23 h 50 Europe/Paris (lot 44 `3854cc6`, QA en cours)

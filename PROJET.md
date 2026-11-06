@@ -56,10 +56,11 @@ Dernière mise à jour : 06/11/2026.
 - « Renaissance » hebdomadaire des bots et dossier OneDrive : écartés.
 
 ## Ouvert
-- Lot **44** Signets en cours (départ `5bee1de`). Store (24) sur demande.
+- Lot **44** Signets poussé `3854cc6` ; QA Testeur en cours. Store (24) sur demande.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 06/11 (~23 h 50) : tip `3854cc6` lot 44 (signets) poussé ; 1147 tests déclarés ; QA Testeur.
 - 06/11 (~23 h 40) : décision Signets (lot 44) inscrite ; ChatGPT code (carte + liste Profil, pas une demande, personne prévenu, sort si passé/complet).
 - 06/11 (~11 h 20) : QA Testeur OK sur `5bee1de` ; lot 43+43b clos (look Pro + cibles 44 px) ; 1126 tests ; bots en pause.
 - 06/11 : Paolo préfère Moment GPT Pro comme base visuelle ; look V1 aligné (blanc / #F7F7F5 / #111111 / CTA #1F2937, Inter Tight, Fraunces).

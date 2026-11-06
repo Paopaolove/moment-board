@@ -3,14 +3,14 @@
 État court pour reprendre sans coller tout le fil. Mainteneur : Grok Bot. À lire avant une tâche Moment ; à mettre à jour en fin de lot / fin de journée.
 
 ## Tip
-- SHA : `5bee1de` (feat/invitation-offer-lots, poussé, arbre propre)
-- Parent : `1a954c6` → `fed184c` (lot 43 look) → `5bee1de` (lot 43b cibles 44 px)
-- Tests : 1126/1126, QA Testeur **OK** (06/11)
+- SHA : `3854cc6` (feat/invitation-offer-lots, poussé, arbre propre)
+- Parent : `5bee1de` (lot 43) → `3854cc6` (lot 44 signets)
+- Tests : 1147/1147 déclarés (verify ChatGPT) ; QA Testeur **en cours**
 - Captures : `/workspace/lot43-captures/{avant,apres}`
 
 
 ## Objectif courant
-- Lot **44** Signets en cours (départ `5bee1de`). ChatGPT code.
+- Lot **44** Signets poussé `3854cc6` ; QA Testeur en cours.
 - Avant store (tâche 24) toujours sur demande.
 
 
@@ -43,4 +43,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 06/11 ~23 h 40 Europe/Paris — lot 44 Signets inscrit et lancé (ChatGPT). Tip encore `5bee1de`.
+- 06/11 ~23 h 50 Europe/Paris — tip `3854cc6` lot 44 poussé ; QA Testeur en cours.
