@@ -10,7 +10,7 @@
 
 
 ## Objectif courant
-- Tip stable `5bee1de` lots 43+43b clos (look Pro sur V1 + cibles 44 px). Bots en pause.
+- Lot **44** Signets en cours (départ `5bee1de`). ChatGPT code.
 - Avant store (tâche 24) toujours sur demande.
 
 
@@ -24,10 +24,10 @@
 - À 4 absences lieu → **compte fermé temporairement pendant un mois à cause des absences** (partout) + date ; après → compteur **« 1 sur 1 »** puis une absence = fermeture définitive (01/11). Pendant la période : afficher ce libellé (pas « expiré » seul).
 - Note auto table normale neutre · Caution dans Moments passés · drop guestNoShowCount/partnerNoShowCount (31/10, lot 40)
 - Look V1 = look Moment Pro (06/11) : fond blanc, surfaces `#F7F7F5`, encre `#111111`, CTA `#1F2937` ; Inter Tight ; Fraunces mot-symbole ; pas d’abricot / papier `#F7F1EA` / jaguar
+- Signets (06/11) : icône sur la carte + liste Profil ; pas une demande ; personne prévenu ; sort si passé ou complet ; pas de « X personnes regardent » / « populaire »
 
 ## Ouvert (décision Paolo)
-- Aucun produit ouvert.
-- Lot 42 clos tip `1a954c6` (toast, « 1 sur 1 », message définitif) QA OK.
+- Lot 44 Signets en cours (voir DECISIONS 06/11). Aucun autre produit ouvert.
 
 
 ## Avant store (tâche 24, pas bloquant démo)
@@ -43,4 +43,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 06/11 ~23 h 30 Europe/Paris — board publié en public (Paopaolove/moment-board) pour SuperGrok. Tip toujours `5bee1de`.
+- 06/11 ~23 h 40 Europe/Paris — lot 44 Signets inscrit et lancé (ChatGPT). Tip encore `5bee1de`.

@@ -289,3 +289,15 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
 - Interdit : abricot, papier `#F7F1EA`, vert jaguar `#1B4D3E` / `#143D32`.
 - Slides, montants, délais, libellés : **inchangés**. Aucune règle métier.
 - Lot 43 + 43b poussés `5bee1de` (06/11), QA OK.
+
+## 06/11 · Signets (Paolo) — lot 44
+- Un **signet** sur la **carte** d’un moment.
+- Une **liste** dans le **Profil** (soi seul).
+- Ce n’est **pas** une demande : poser ou retirer un signet ne crée aucune demande, ne réserve aucune place.
+- **Personne n’est prévenu** (ni hôte, ni autres invités, ni lieu).
+- **Passé ou complet** : le moment **sort de la liste**.
+  - **Complet** = plus de place (`full` / plus de `spotsLeft`), même logique que le fil.
+  - **Passé** = moment révolu (heure de début dépassée, ou terminé / `completed`).
+- Pas de « X personnes regardent ». Pas de « populaire ». Aucun compteur ni signal social autour des signets.
+- Métier inchangé : caution, barèmes, délais, présence, libellés d’écran existants.
+
