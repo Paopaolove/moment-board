@@ -56,10 +56,11 @@ Dernière mise à jour : 07/11/2026 ~12 h 20.
 - « Renaissance » hebdomadaire des bots et dossier OneDrive : écartés.
 
 ## Ouvert
-- Lot 45 QA : V1 en Expo SDK 58 (`caf2198`, non poussé). Store (24) sur demande.
+- Tip stable **`caf2198`** (lots 43+44+45, QA OK). Store (24) sur demande. Bots en pause.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 07/11 (~12 h 20) : QA OK sur `caf2198` ; lot 45 clos (V1 Expo SDK 58) ; 1147 tests ; poussé ; bots en pause.
 - 07/11 (~12 h 20) : tip `caf2198` lot 45 (SDK 58) commité localement ; vérif Grok OK (6 fichiers, métier intact) ; QA Testeur.
 - 07/11 (~12 h 15) : lot 45 lancé (V1 → Expo SDK 58, sans métier) ; ChatGPT briefé ; tip encore `3854cc6`.
 - 07/11 (~7 h 20) : tip `3854cc6` inchangé depuis 23 h 50 la veille ; résumé matinal = lots 43+44 (look Pro + signets).

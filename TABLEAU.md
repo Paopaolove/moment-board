@@ -54,6 +54,6 @@ Statuts : À faire · En cours · Bloqué · À valider (Paolo) · Fait
 | 42 | Toast 4e + fermeture temp ; compteur **« 1 sur 1 »** après mois ; message fermeture définitive (texte Paolo validé) | ChatGPT + Testeur | Fait | **`1a954c6`**, QA OK (1126) |
 | 43 | Look Moment Pro sur V1 (esthétique seule : blanc / #F7F7F5 / #111111 / CTA #1F2937, Inter Tight, Fraunces mot-symbole, cibles 44 px) | ChatGPT + Testeur | Fait | **`5bee1de`** (parent `fed184c`). QA OK (1126). |
 | 44 | Signet sur la carte d’un moment + liste dans le Profil (pas une demande, personne prévenu ; sort si passé ou complet ; pas de preuve sociale) | ChatGPT + Testeur | Fait | **`3854cc6`**. QA OK (1147). |
-| 45 | Passer la V1 d’Expo SDK 57 à Expo SDK 58 (Expo Go 58), sans toucher au métier | ChatGPT + Testeur | QA | **`caf2198`**, non poussé. Parent `3854cc6`. |
+| 45 | Passer la V1 d’Expo SDK 57 à Expo SDK 58 (Expo Go 58), sans toucher au métier | ChatGPT + Testeur | Fait | **`caf2198`**. QA OK (1147). Parent `3854cc6`. |
 
-Dernière mise à jour : 07/11/2026 ~12 h 20 Europe/Paris (lot 45 `caf2198`, QA en cours)
+Dernière mise à jour : 07/11/2026 ~12 h 20 Europe/Paris (lot 45 clos `caf2198`, QA OK)

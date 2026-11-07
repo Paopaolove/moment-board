@@ -3,14 +3,14 @@
 État court pour reprendre sans coller tout le fil. Mainteneur : Grok Bot. À lire avant une tâche Moment ; à mettre à jour en fin de lot / fin de journée.
 
 ## Tip
-- SHA : `caf2198` (feat/invitation-offer-lots, **non poussé**, ahead 1)
+- SHA : `caf2198` (feat/invitation-offer-lots, poussé, arbre propre)
 - Parent : `3854cc6` (lot 44) → `caf2198` (lot 45 SDK 58)
-- Tests : 1147/1147 déclarés par ChatGPT ; QA Testeur en cours (07/11)
+- Tests : 1147/1147, QA Testeur **OK** (07/11)
 - Captures : `/workspace/lot43-captures/{avant,apres}`
 
 
 ## Objectif courant
-- Lot 45 : V1 passée en Expo SDK 58 (`caf2198`), QA Testeur en cours, pas encore poussé.
+- Tip stable `caf2198` lots 43+44+45 clos (look Pro + signets + SDK 58). Bots en pause.
 - Avant store (tâche 24) toujours sur demande.
 
 
@@ -44,4 +44,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 07/11 ~12 h 20 Europe/Paris — lot 45 commité `caf2198` (SDK 58), vérifié par Grok (6 fichiers, métier intact) ; QA Testeur ; tip non poussé.
+- 07/11 ~12 h 20 Europe/Paris — lot 45 clos : tip `caf2198` poussé (V1 Expo SDK 58), QA OK (1147).
