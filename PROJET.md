@@ -2,7 +2,7 @@
 
 À lire par tout bot avant une tâche Moment. Contexte des conversations, pas le code.
 Mainteneur : Grok Bot (coordinateur). Les autres bots proposent un ajout à Grok Bot, ils n'éditent pas ce fichier.
-Dernière mise à jour : 07/11/2026 ~12 h 15.
+Dernière mise à jour : 07/11/2026 ~12 h 20.
 
 ## Le projet
 - Moment : app Expo/React Native, invitations IRL à Paris (resto, bar, culture, sport). Pas une appli de rencontres.
@@ -56,10 +56,11 @@ Dernière mise à jour : 07/11/2026 ~12 h 15.
 - « Renaissance » hebdomadaire des bots et dossier OneDrive : écartés.
 
 ## Ouvert
-- Lot 45 en cours : V1 → Expo SDK 58 (sans métier). Parent `3854cc6`. ChatGPT code. Store (24) sur demande.
+- Lot 45 QA : V1 en Expo SDK 58 (`caf2198`, non poussé). Store (24) sur demande.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 07/11 (~12 h 20) : tip `caf2198` lot 45 (SDK 58) commité localement ; vérif Grok OK (6 fichiers, métier intact) ; QA Testeur.
 - 07/11 (~12 h 15) : lot 45 lancé (V1 → Expo SDK 58, sans métier) ; ChatGPT briefé ; tip encore `3854cc6`.
 - 07/11 (~7 h 20) : tip `3854cc6` inchangé depuis 23 h 50 la veille ; résumé matinal = lots 43+44 (look Pro + signets).
 - 06/11 (~23 h 50) : QA Testeur OK sur `3854cc6` ; lot 44 clos (signets) ; 1147 tests ; bots en pause.

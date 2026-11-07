@@ -305,6 +305,6 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
 ## 07/11 · V1 en Expo SDK 58 (Paolo) — lot 45
 - La V1 (`Paopaolove/chance`, branche `feat/invitation-offer-lots`) passe d’Expo SDK 57 à Expo SDK 58, pour s’ouvrir dans Expo Go 58 comme Moment GPT Pro.
 - Aucun changement métier : règles, partenaires, pricing, deposit, libellés produit et logique des signets inchangés.
-- Lot 45 en cours (ChatGPT).
+- Lot 45 commité `caf2198` (07/11), non poussé ; QA Testeur en cours. Expo 58.0.23, RN 0.88.1 ; 3 fichiers src = types de ref seulement ; plugin `expo-status-bar` ajouté.
 
 
