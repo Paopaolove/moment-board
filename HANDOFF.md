@@ -43,4 +43,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 06/11 ~23 h 50 Europe/Paris — lot 44 clos, tip `3854cc6` poussé, QA OK (1147).
+- 07/11 ~7 h 20 Europe/Paris — résumé matinal : tip `3854cc6` inchangé depuis lot 44 ; lots 43+44 signalés à Paolo.

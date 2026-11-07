@@ -2,7 +2,7 @@
 
 À lire par tout bot avant une tâche Moment. Contexte des conversations, pas le code.
 Mainteneur : Grok Bot (coordinateur). Les autres bots proposent un ajout à Grok Bot, ils n'éditent pas ce fichier.
-Dernière mise à jour : 06/11/2026.
+Dernière mise à jour : 07/11/2026.
 
 ## Le projet
 - Moment : app Expo/React Native, invitations IRL à Paris (resto, bar, culture, sport). Pas une appli de rencontres.
@@ -60,6 +60,7 @@ Dernière mise à jour : 06/11/2026.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 07/11 (~7 h 20) : tip `3854cc6` inchangé depuis 23 h 50 la veille ; résumé matinal = lots 43+44 (look Pro + signets).
 - 06/11 (~23 h 50) : QA Testeur OK sur `3854cc6` ; lot 44 clos (signets) ; 1147 tests ; bots en pause.
 - 06/11 (~23 h 50) : tip `3854cc6` lot 44 (signets) poussé ; 1147 tests déclarés ; QA Testeur.
 - 06/11 (~23 h 40) : décision Signets (lot 44) inscrite ; ChatGPT code (carte + liste Profil, pas une demande, personne prévenu, sort si passé/complet).
