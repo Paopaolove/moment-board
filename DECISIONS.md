@@ -302,3 +302,9 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
 - Métier inchangé : caution, barèmes, délais, présence, libellés d’écran existants.
 - Lot 44 poussé `3854cc6` (06/11), QA OK (1147). Sans compte, le contrôle ouvre la création de compte (choix codé, Paolo informé). Urgents déjà sur place : hors liste dès H dépassée (même s’ils restent jusqu’à H+30 sur le fil). Annulé / fermé aussi masqués.
 
+## 07/11 · V1 en Expo SDK 58 (Paolo) — lot 45
+- La V1 (`Paopaolove/chance`, branche `feat/invitation-offer-lots`) passe d’Expo SDK 57 à Expo SDK 58, pour s’ouvrir dans Expo Go 58 comme Moment GPT Pro.
+- Aucun changement métier : règles, partenaires, pricing, deposit, libellés produit et logique des signets inchangés.
+- Lot 45 en cours (ChatGPT).
+
+

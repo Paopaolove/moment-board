@@ -10,7 +10,7 @@
 
 
 ## Objectif courant
-- Tip stable `3854cc6` lots 43+44 clos (look Pro + signets). Bots en pause.
+- Lot 45 en cours : passer la V1 d’Expo SDK 57 à SDK 58 (Expo Go 58), sans toucher au métier. ChatGPT code. Parent `3854cc6`.
 - Avant store (tâche 24) toujours sur demande.
 
 
@@ -25,6 +25,7 @@
 - Note auto table normale neutre · Caution dans Moments passés · drop guestNoShowCount/partnerNoShowCount (31/10, lot 40)
 - Look V1 = look Moment Pro (06/11) : fond blanc, surfaces `#F7F7F5`, encre `#111111`, CTA `#1F2937` ; Inter Tight ; Fraunces mot-symbole ; pas d’abricot / papier `#F7F1EA` / jaguar
 - Signets (06/11) : icône sur la carte + liste Profil ; pas une demande ; personne prévenu ; sort si passé ou complet ; pas de « X personnes regardent » / « populaire »
+- V1 en Expo SDK 58 (07/11, lot 45) : pour Expo Go 58, comme le Pro ; pas de changement métier
 
 ## Ouvert (décision Paolo)
 - Aucun produit ouvert.
@@ -43,4 +44,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 07/11 ~7 h 20 Europe/Paris — résumé matinal : tip `3854cc6` inchangé depuis lot 44 ; lots 43+44 signalés à Paolo.
+- 07/11 ~12 h 15 Europe/Paris — lot 45 lancé : V1 → Expo SDK 58, sans métier ; ChatGPT briefé ; tip encore `3854cc6`.
