@@ -44,4 +44,4 @@
 - Code : `/workspace/chance` (GitHub `Paopaolove/chance`, branche `feat/invitation-offer-lots`)
 
 ## Dernière MAJ
-- 07/11 ~12 h 20 Europe/Paris — lot 45 clos : tip `caf2198` poussé (V1 Expo SDK 58), QA OK (1147).
+- 08/11 ~7 h 20 Europe/Paris — résumé matinal : tip `caf2198` inchangé (lot 45 clos la veille), aucun produit ouvert.

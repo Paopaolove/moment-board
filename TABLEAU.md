@@ -56,4 +56,4 @@ Statuts : À faire · En cours · Bloqué · À valider (Paolo) · Fait
 | 44 | Signet sur la carte d’un moment + liste dans le Profil (pas une demande, personne prévenu ; sort si passé ou complet ; pas de preuve sociale) | ChatGPT + Testeur | Fait | **`3854cc6`**. QA OK (1147). |
 | 45 | Passer la V1 d’Expo SDK 57 à Expo SDK 58 (Expo Go 58), sans toucher au métier | ChatGPT + Testeur | Fait | **`caf2198`**. QA OK (1147). Parent `3854cc6`. |
 
-Dernière mise à jour : 07/11/2026 ~12 h 20 Europe/Paris (lot 45 clos `caf2198`, QA OK)
+Dernière mise à jour : 08/11/2026 ~7 h 20 Europe/Paris (résumé matinal ; tip `caf2198` inchangé)
