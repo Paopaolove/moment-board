@@ -308,3 +308,10 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
 - Lot 45 poussé `caf2198` (07/11), QA OK (1147). Expo 58.0.23, RN 0.88.1 ; 3 fichiers src = types de ref seulement ; plugin `expo-status-bar` ajouté.
 
 
+
+## 16/11 · Phase esthétique : accueil + carte d'abord (Paolo)
+- Les process sont en place ; on se concentre sur l'esthétique, en commençant par l'écran d'accueil et la carte.
+- 3 pistes maquettées (16/11) : Papier Pro, Paris la nuit, Affiche. **Choix de Paolo en attente** (« Je dois encore réfléchir »).
+
+## 16/11 · Prototype GPT Funky supprimé (Paolo)
+- Branche et tag `moment-gpt-funky` supprimés de `Paopaolove/moment-gpt` (GitHub + local). Restent : `main` (crème), GPT 2 (`iteration-4`), GPT 3, GPT 4, Pro.

@@ -45,3 +45,4 @@
 
 ## Dernière MAJ
 - 08/11 ~7 h 20 Europe/Paris — résumé matinal : tip `caf2198` inchangé (lot 45 clos la veille), aucun produit ouvert.
+- 16/11 ~21 h 50 Europe/Paris : phase esthétique ouverte (accueil + carte), 3 pistes en attente du choix de Paolo ; prototype GPT Funky supprimé. Tip code inchangé `caf2198`.
