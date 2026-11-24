@@ -6,7 +6,7 @@ Tenu par Grok Bot. Dev Moment, ChatGPT et Testeur Moment le lisent avant chaque 
 ## Organisation
 - 16/10 · V1 = branche feat/invitation-offer-lots (Paopaolove/chance). Ne bouge que sur décision de Paolo. Essais sur copies séparées.
 - 16/10 · Équipe : Grok Bot coordonne · Dev Moment code · ChatGPT code certaines tâches (moins cher) · Testeur Moment valide avant chaque push (rapport avant/après).
-- Process : brief → vérif règles → go de Paolo → code → QA → push. Pas de merge master, pas de force push, éviter 3bcb150.
+- Process : brief → vérif règles → go de Paolo → code → QA → compte rendu type → push. Pas de push si une vérification a échoué. Pas de merge master, pas de force push, éviter 3bcb150.
 
 ## Règles figées
 - Caution 20 € · partage 6,90 € Moment / 13,10 € hôte.
@@ -315,3 +315,8 @@ Après quatre absences, on t’avait laissé un mois pour reprendre — compte f
 
 ## 16/11 · Prototype GPT Funky supprimé (Paolo)
 - Branche et tag `moment-gpt-funky` supprimés de `Paopaolove/moment-gpt` (GitHub + local). Restent : `main` (crème), GPT 2 (`iteration-4`), GPT 3, GPT 4, Pro.
+
+## 24/11 · Compte rendu type obligatoire en fin de tâche (Paolo)
+- Le bot ChatGPT et Testeur Moment remplissent, tel quel, le gabarit de PROJET.md à la fin de chaque tâche (rôle, branche, commit de départ, commits produits, fichiers modifiés, vérifications lancées avec leur code de sortie, ce que les captures montrent, blocages).
+- Pas de push si une vérification a échoué. Le Testeur contrôle que le commit testé est bien le tip annoncé. Un compte rendu incomplet = tâche pas finie.
+- Pourquoi : fiabilité, et éviter les pushs sans preuve de vérification.

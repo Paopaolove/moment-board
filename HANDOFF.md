@@ -1,6 +1,7 @@
 # HANDOFF Moment
 
 État court pour reprendre sans coller tout le fil. Mainteneur : Grok Bot. À lire avant une tâche Moment ; à mettre à jour en fin de lot / fin de journée.
+Fin de tâche (bot ChatGPT et Testeur) : remplir le compte rendu type de PROJET.md. Incomplet = pas fini. Pas de push si une vérification a échoué.
 
 ## Tip
 - SHA : `caf2198` (feat/invitation-offer-lots, poussé, arbre propre)
@@ -46,3 +47,4 @@
 ## Dernière MAJ
 - 08/11 ~7 h 20 Europe/Paris — résumé matinal : tip `caf2198` inchangé (lot 45 clos la veille), aucun produit ouvert.
 - 16/11 ~21 h 50 Europe/Paris : phase esthétique ouverte (accueil + carte), 3 pistes en attente du choix de Paolo ; prototype GPT Funky supprimé. Tip code inchangé `caf2198`.
+- 24/11 ~14 h 10 Europe/Paris : compte rendu type obligatoire en fin de tâche (ChatGPT + Testeur), gabarit dans PROJET.md. Tip code inchangé `caf2198`.

@@ -2,7 +2,7 @@
 
 À lire par tout bot avant une tâche Moment. Contexte des conversations, pas le code.
 Mainteneur : Grok Bot (coordinateur). Les autres bots proposent un ajout à Grok Bot, ils n'éditent pas ce fichier.
-Dernière mise à jour : 08/11/2026 ~7 h 20.
+Dernière mise à jour : 24/11/2026 ~14 h 10.
 
 ## Le projet
 - Moment : app Expo/React Native, invitations IRL à Paris (resto, bar, culture, sport). Pas une appli de rencontres.
@@ -29,11 +29,29 @@ Dernière mise à jour : 08/11/2026 ~7 h 20.
 ## Façon de travailler avec Paolo
 - Français, factuel, sans smileys, propositions concrètes. Le contredire quand il se trompe.
 - Validation : court texte explicatif puis une carte à cases (une case par proposition). Il répond souvent en texte libre.
-- Circuit : brief → vérif registre → go de Paolo → code → vérification → push.
+- Circuit : brief → vérif registre → go de Paolo → code → vérification → compte rendu type → push.
 - Toute modification de texte d'écran est signalée avec un avant/après.
 - Aucune règle métier changée sans demande. Pas de nouveaux cas limites sans nécessité (leçon du 17/10).
-- Push après chaque changement validé, fast-forward seulement. Jamais de force push, jamais de merge de master, éviter 3bcb150.
+- Push après chaque changement validé, fast-forward seulement. Jamais de force push, jamais de merge de master, éviter 3bcb150. Pas de push si une vérification a échoué.
 - Jamais commités : start-tunnel.sh, *.log. Pas de paiement réel, pas de Stripe live, pas de store, pas d'EAS.
+
+## Compte rendu type (obligatoire en fin de tâche, 24/11)
+Le bot ChatGPT (code) et Testeur Moment (QA) remplissent ce gabarit **tel quel** à la fin de chaque tâche. Un compte rendu incomplet = tâche pas finie. Pas de push si une vérification a échoué. Le Testeur vérifie que le commit testé est bien le tip annoncé.
+
+```
+Rôle :
+Branche :
+Commit de départ :
+Commits produits (dans l'ordre) :
+Fichiers modifiés :
+Vérifications lancées, avec le code de sortie de chacune :
+  - tsc :
+  - tests :
+  - export web :
+  - captures :
+Ce que les captures montrent de la fonctionnalité testée :
+Blocages non résolus :
+```
 
 ## Grandes décisions et leur pourquoi
 - 06/10 : rebranding Moment, ton « le moment d'abord, pas un rencard ».
@@ -60,6 +78,7 @@ Dernière mise à jour : 08/11/2026 ~7 h 20.
 
 
 ## Journal (une ligne par jour, ajoutée par Grok Bot)
+- 24/11 (~14 h 10) : compte rendu type obligatoire en fin de tâche pour ChatGPT et Testeur (gabarit ci-dessus). Tip code inchangé `caf2198`.
 - 08/11 (~7 h 20) : tip `caf2198` inchangé depuis le 07/11 12 h 15 ; résumé matinal = lot 45 (V1 Expo SDK 58) ; rien d’ouvert côté produit.
 - 07/11 (~12 h 20) : QA OK sur `caf2198` ; lot 45 clos (V1 Expo SDK 58) ; 1147 tests ; poussé ; bots en pause.
 - 07/11 (~12 h 20) : tip `caf2198` lot 45 (SDK 58) commité localement ; vérif Grok OK (6 fichiers, métier intact) ; QA Testeur.
